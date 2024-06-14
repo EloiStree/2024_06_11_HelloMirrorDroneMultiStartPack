@@ -1,5 +1,19 @@
 {
   "dependencies": {
+    "be.eloistree.mirrordronesoccerstartpack": {
+      "version": "https://github.com/EloiStree/2024_06_11_HelloMirrorDroneMultiStartPackUnity.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "aa8dbf1ffaf92074cb204db0964fe62fd3ea3e1d"
+    },
+    "be.eloistree.udpthreadsender": {
+      "version": "https://github.com/EloiStree/2020_11_29_UDPThreadSender.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "4f581cc76b06ddfeb4a7416f23e1353cd1ad7ebd"
+    },
     "com.unity.burst": {
       "version": "1.8.15",
       "depth": 1,
