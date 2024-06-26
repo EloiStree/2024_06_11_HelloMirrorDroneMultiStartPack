@@ -1,11 +1,46 @@
 {
   "dependencies": {
+    "be.eloistree.downloadserveripfrompage": {
+      "version": "https://github.com/EloiStree/2024_06_15_DownloadServerIpFromPage.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "e3c22390b3846b4b72ef5ac6e9be29dc678f4157"
+    },
+    "be.eloistree.dronemultistructandparser": {
+      "version": "https://github.com/EloiStree/2024_06_25_HelloDroneMultiStructAndParser.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "394c7783e699b112a6a7593b26f781257b8c2951"
+    },
+    "be.eloistree.generatestorersakey": {
+      "version": "https://github.com/EloiStree/2024_04_04_GenereteRsaKeyInUnity.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "81135f50977ea5be90efa952927510c23ba3a012"
+    },
+    "be.eloistree.iidwstunnelingrsa": {
+      "version": "https://github.com/EloiStree/2024_04_04_UnityServerTunnelingRSAUnity.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "4ae400e6e6539895fbdb3041ebbdcd90e5425dbe"
+    },
     "be.eloistree.mirrordronesoccerstartpack": {
       "version": "https://github.com/EloiStree/2024_06_11_HelloMirrorDroneMultiStartPackUnity.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "aa8dbf1ffaf92074cb204db0964fe62fd3ea3e1d"
+      "hash": "b083de0ae382116561a9840044c1a5689734cc50"
+    },
+    "be.eloistree.pushgenericintegerdate": {
+      "version": "https://github.com/EloiStree/2024_04_07_PushGenericAsIntegerDate.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "f766ea0bdba1da987392031df6b83c83775bf0f4"
     },
     "be.eloistree.udpthreadsender": {
       "version": "https://github.com/EloiStree/2020_11_29_UDPThreadSender.git",
@@ -61,6 +96,15 @@
       "depth": 0,
       "source": "registry",
       "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.inputsystem": {
+      "version": "1.7.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.uielements": "1.0.0"
+      },
       "url": "https://packages.unity.com"
     },
     "com.unity.mathematics": {
